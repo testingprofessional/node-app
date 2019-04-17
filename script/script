@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mocha
+
+chmod +x script/test
